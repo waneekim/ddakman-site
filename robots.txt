@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waneekim.github.io/ddakman-site/sitemap-index.xml
